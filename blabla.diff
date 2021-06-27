@@ -1,0 +1,7 @@
+diff --git a/newbranvhfile.txt b/newbranvhfile.txt
+index 503ac6f..c3e9274 100644
+--- a/newbranvhfile.txt
++++ b/newbranvhfile.txt
+@@ -1 +1 @@
+-New branch file only shows up in a new branch and a master
++New branch file only shows up in a new branch

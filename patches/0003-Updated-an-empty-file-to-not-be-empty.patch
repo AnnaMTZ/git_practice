@@ -1,0 +1,27 @@
+From ac567cbb51f7c5f0180ef103ab59d88063c5ea5c Mon Sep 17 00:00:00 2001
+From: Anna <52211360+AnnaMTZ@users.noreply.github.com>
+Date: Sat, 26 Jun 2021 21:58:09 +0200
+Subject: [PATCH 3/4] Updated an empty file to not be empty
+
+---
+ !empty-file.md | 3 +++
+ empty-file.txt | 0
+ 2 files changed, 3 insertions(+)
+ create mode 100644 !empty-file.md
+ delete mode 100644 empty-file.txt
+
+diff --git a/!empty-file.md b/!empty-file.md
+new file mode 100644
+index 0000000..06ecf57
+--- /dev/null
++++ b/!empty-file.md
+@@ -0,0 +1,3 @@
++# This is not empty file 
++
++Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet voluptate unde corrupti dolore id non eligendi saepe porro commodi nobis!
+diff --git a/empty-file.txt b/empty-file.txt
+deleted file mode 100644
+index e69de29..0000000
+-- 
+2.17.1
+

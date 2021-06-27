@@ -1,0 +1,20 @@
+загалом 68
+drwxrwxr-x 4 anna anna 4096 чер 27 19:21 .
+drwxrwxr-x 3 anna anna 4096 чер 22 19:20 ..
+-rw-rw-r-- 1 anna anna  248 чер 27 18:59 blabla.diff
+-rw-rw-r-- 1 anna anna  751 чер 27 19:17 changes.txt
+-rw-rw-r-- 1 anna anna   11 чер 27 19:09 doesntmatterAnyway.txt
+-rw-rw-r-- 1 anna anna   20 чер 27 19:09 doesntmatter.txt
+-rw-rw-r-- 1 anna anna  169 чер 26 23:01 !empty-file.md
+-rw-rw-r-- 1 anna anna    0 чер 27 19:21 filename.txt
+-rw-rw-r-- 1 anna anna   66 чер 26 23:01 first-push.txt
+drwxrwxr-x 8 anna anna 4096 чер 27 19:09 .git
+-rw-rw-r-- 1 anna anna  751 чер 27 18:47 modification.diff
+-rw-rw-r-- 1 anna anna   42 чер 26 23:01 new_branch.txt
+-rw-rw-r-- 1 anna anna   59 чер 27 19:00 newbranvhfile.txt
+drwxrwxr-x 2 anna anna 4096 чер 27 18:55 patches
+-rw-rw-r-- 1 anna anna  502 чер 26 23:01 README.md
+-rw-rw-r-- 1 anna anna  498 чер 27 18:46 README.md.modified
+-rw-rw-r-- 1 anna anna   21 чер 22 19:20 README.txt
+-rw-rw-r-- 1 anna anna   14 чер 27 19:09 secondfile
+-rw-rw-r-- 1 anna anna    0 чер 26 23:01 timewarp.txt

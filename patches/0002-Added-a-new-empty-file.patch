@@ -1,0 +1,16 @@
+From 1c628b88c37176496e4fffa046c5f81d79a301cb Mon Sep 17 00:00:00 2001
+From: Anna <annamikhailenko@gmail.com>
+Date: Sat, 26 Jun 2021 19:39:05 +0200
+Subject: [PATCH 2/4] Added a new empty file
+
+---
+ empty-file.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 empty-file.txt
+
+diff --git a/empty-file.txt b/empty-file.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.17.1
+

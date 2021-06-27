@@ -1,0 +1,13 @@
+На гілці julius-branch
+Невідстежувані файли:
+  (використовуйте «git add <file>...» щоб долучити те, що повинно бути збережено в коміті)
+
+	README.md.modified
+	afile.txt
+	blabla.diff
+	changes.txt
+	filename.txt
+	modification.diff
+	patches/
+
+немає змін, доданих у коміт, але існують невідстежувані файли (використовуйте  «git add» щоб додати файли для відстежування)
